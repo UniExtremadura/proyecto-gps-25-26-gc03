@@ -1,5 +1,7 @@
 # Musicfly v2.0 🎵
 
+<img width="713" height="357" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/d3f335f5-9691-4d83-bce6-9d49e9a62136" />
+
 Este proyecto, heredado de la asignatura _Programación en Internet_ del 6º semestre de los grados de Ingeniería Informática en Ingeniería del Software, une dos de los aspectos más importantes del desarrollo de software, tratados en las asignaturas **ASEE** y **GPS** del 7º semestre.
 
 ## Enfoques del proyecto
