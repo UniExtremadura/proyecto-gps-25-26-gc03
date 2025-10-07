@@ -1,4 +1,4 @@
-# BandCamp v2.0 🎵
+# Musicfly v2.0 🎵
 
 Este proyecto, heredado de la asignatura _Programación en Internet_ del 6º semestre de los grados de Ingeniería Informática en Ingeniería del Software, une dos de los aspectos más importantes del desarrollo de software, tratados en las asignaturas **ASEE** y **GPS** del 7º semestre.
 
