@@ -4,6 +4,8 @@
 
 Este proyecto, heredado de la asignatura _Programación en Internet_ del 6º semestre de los grados de Ingeniería Informática en Ingeniería del Software, une dos de los aspectos más importantes del desarrollo de software, tratados en las asignaturas **ASEE** y **GPS** del 7º semestre.
 
+> Ya está disponible [nuestra Wiki en GitHub!](https://github.com/UniExtremadura/proyecto-gps-25-26-gc03/wiki) 📖.
+
 ## Enfoques del proyecto
 
 ### GPS – Gestión de proyectos software 📊
